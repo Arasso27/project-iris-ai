@@ -6,10 +6,10 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Iris A.I Beta',
+      title: 'Iris A.I.',
       home: Scaffold(
-        appBar: AppBar(title: Text('Iris A.I Beta')),
-        body: Center(child: Text('Hello, I am Iris!')),
+        appBar: AppBar(title: Text('Iris A.I.')),
+        body: Center(child: Text('Hai, aku Iris!')),
       ),
     );
   }
