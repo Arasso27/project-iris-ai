@@ -1,6 +1,6 @@
-package com.example.project_iris_ai
+package com.example.projectirisai;
 
-import io.flutter.embedding.android.FlutterActivity
+import io.flutter.embedding.android.FlutterActivity;
 
-class MainActivity: FlutterActivity() {
+public class MainActivity extends FlutterActivity {
 }
