@@ -1,0 +1,15 @@
+name: iris_ai_beta
+description: Iris A.I. Personal Assistant Beta
+version: 0.1.0
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+flutter:
+  assets:
+    - assets/iris_avatar.png
